@@ -1,14 +1,14 @@
 [
   {
     "full_name": "urllib3/urllib3",
-    "stargazers_count": 3448,
-    "open_issues_count": 130,
+    "stargazers_count": 3447,
+    "open_issues_count": 131,
     "forks_count": 1080
   },
   {
     "full_name": "python-pillow/Pillow",
-    "stargazers_count": 10965,
-    "open_issues_count": 99,
+    "stargazers_count": 10977,
+    "open_issues_count": 103,
     "forks_count": 2074
   },
   {
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 885,
     "open_issues_count": 0,
-    "forks_count": 665
+    "forks_count": 670
   }
 ]
