@@ -1,15 +1,15 @@
 [
   {
     "full_name": "urllib3/urllib3",
-    "stargazers_count": 4016,
-    "open_issues_count": 184,
-    "forks_count": 1319
+    "stargazers_count": 4017,
+    "open_issues_count": 190,
+    "forks_count": 1321
   },
   {
     "full_name": "python-pillow/Pillow",
-    "stargazers_count": 13530,
-    "open_issues_count": 131,
-    "forks_count": 2426
+    "stargazers_count": 13535,
+    "open_issues_count": 125,
+    "forks_count": 2430
   },
   {
     "full_name": "librariesio/bibliothecary",
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 952,
     "open_issues_count": 0,
-    "forks_count": 1162
+    "forks_count": 1165
   }
 ]
